@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MiniBatch", "Assignment2\MiniBatch.pyproj", "{53CF2879-79EF-4B53-89BB-DEF0E9407923}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GradientDescent", "GradientDescent\GradientDescent.pyproj", "{CEFEA405-108D-41A0-82C7-3B3F59A7420B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RELU_SGD", "RELU_SGD\RELU_SGD.pyproj", "{32CD2BD6-F4B3-49F1-86E2-397181FCD505}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TANH_SGD", "TANH_SGD\TANH_SGD.pyproj", "{4BEAAAF2-810B-4B38-AF35-76EFCDEA0599}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RELU_MiniBatch", "RELU_MiniBatch\RELU_MiniBatch.pyproj", "{9E5C03B1-60C9-4289-A8E4-92007769D3F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TANH_MiniBatch", "TANH_MiniBatch\TANH_MiniBatch.pyproj", "{E6A0F5F3-DD42-4163-A960-BFF9B40D5164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CF2879-79EF-4B53-89BB-DEF0E9407923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CF2879-79EF-4B53-89BB-DEF0E9407923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFEA405-108D-41A0-82C7-3B3F59A7420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFEA405-108D-41A0-82C7-3B3F59A7420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CD2BD6-F4B3-49F1-86E2-397181FCD505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CD2BD6-F4B3-49F1-86E2-397181FCD505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEAAAF2-810B-4B38-AF35-76EFCDEA0599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEAAAF2-810B-4B38-AF35-76EFCDEA0599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5C03B1-60C9-4289-A8E4-92007769D3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5C03B1-60C9-4289-A8E4-92007769D3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A0F5F3-DD42-4163-A960-BFF9B40D5164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A0F5F3-DD42-4163-A960-BFF9B40D5164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAFBF2D7-E8D1-4564-9024-F1EC9AF23454}
+	EndGlobalSection
+EndGlobal
