@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "First", "PythonExamples\First.pyproj", "{62D7D1AD-9BB0-4B00-8055-464C7A2F5158}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "QuickSort", "QuickSort\QuickSort.pyproj", "{D71B93D9-77F5-41AC-93C0-29E743CF66FC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FileProcessing", "FileProcessing\FileProcessing.pyproj", "{51CD210D-9AB2-43F1-96E3-F0E8EF7F8EB2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StudentsGrades", "StudentsGrades\StudentsGrades.pyproj", "{B5829B76-FF73-46B6-B08E-32BFDEAD59A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D7D1AD-9BB0-4B00-8055-464C7A2F5158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D7D1AD-9BB0-4B00-8055-464C7A2F5158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71B93D9-77F5-41AC-93C0-29E743CF66FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71B93D9-77F5-41AC-93C0-29E743CF66FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CD210D-9AB2-43F1-96E3-F0E8EF7F8EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CD210D-9AB2-43F1-96E3-F0E8EF7F8EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5829B76-FF73-46B6-B08E-32BFDEAD59A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5829B76-FF73-46B6-B08E-32BFDEAD59A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B15F80F-0598-4204-91DB-19EE134891CA}
+	EndGlobalSection
+EndGlobal
