@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SiameseWithCNN", "SiameseWithCNN\SiameseWithCNN.pyproj", "{CDBE3FE0-2FD6-42F6-9BBA-4FB5482EDA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBE3FE0-2FD6-42F6-9BBA-4FB5482EDA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBE3FE0-2FD6-42F6-9BBA-4FB5482EDA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99D5A6C-2B4B-47BA-BD1C-6928D326AA89}
+	EndGlobalSection
+EndGlobal
