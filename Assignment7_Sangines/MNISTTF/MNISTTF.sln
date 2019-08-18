@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MNISTTF", "MNISTTF\MNISTTF.pyproj", "{6FC79A77-381C-4509-A705-1949E8CE3F8C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GraphApi1", "GraphApi1\GraphApi1.pyproj", "{A5F134BE-A163-4EC5-BDEA-361286BC4EBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC79A77-381C-4509-A705-1949E8CE3F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC79A77-381C-4509-A705-1949E8CE3F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F134BE-A163-4EC5-BDEA-361286BC4EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F134BE-A163-4EC5-BDEA-361286BC4EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C2F8D1-AA6C-4FCC-B505-338654E2013A}
+	EndGlobalSection
+EndGlobal

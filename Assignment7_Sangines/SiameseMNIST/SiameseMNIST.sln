@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SiameseMNIST", "SiameseMNIST\SiameseMNIST.pyproj", "{E81A967D-9D65-424D-939C-F3B3E30544CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81A967D-9D65-424D-939C-F3B3E30544CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81A967D-9D65-424D-939C-F3B3E30544CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C8759B-550E-49EE-93A6-B2DCAFA9B089}
+	EndGlobalSection
+EndGlobal
